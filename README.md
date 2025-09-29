@@ -14,7 +14,7 @@ offical implement of our work "Real Time Fuison"
 
 # Contact
 If you have any questions or suggestions, feel free to contact our maintenance team:
-- Quangao Liu (liuquangao@sia.cn)
+- Quangao Liu (ql337@exeter.ac.uk)
 
 # Acknowledgement
 Our code is based on
